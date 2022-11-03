@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/168.6b515b9a.chunk.css","mappings":"AAAA,qBACI,gBACJ,CAEA,qBACI,cACJ,CAEA,uCACI,iBACJ","sources":["components/Reviews/Reviews.module.css"],"sourcesContent":[".list {\n    padding: 5px 35px;\n}\n\n.item {\n    padding: 10px 0;\n}\n\n.item *:not(:last-child) {\n    margin-bottom: 5px;\n}"],"names":[],"sourceRoot":""}
